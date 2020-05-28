@@ -1,0 +1,144 @@
+body{
+    background-image: url(img/madeira.jpg);
+}
+
+.topo{
+    padding: 59px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0px;
+}
+
+.corpo{
+    width: 100%;
+    height: 350px;
+    padding: 5px;
+}
+
+.creditos{
+    height: 40px;
+    text-align: center;
+}
+
+.credito{
+    height: 150px;
+    width: 1000px;
+    text-align: center;
+}
+
+.tit{
+    text-align: center;
+}
+
+.musica1{
+    background-image: url(img/fundo.png);
+    text-align: center;
+    padding: 20px;
+    width: 615px;
+    height: 400px;
+    margin-right: 5px;
+    overflow: scroll;
+}
+
+.musica2{
+    background-image: url(img/fundo.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 20px;
+    width: 615px;
+    height: 400px;
+    margin-left: 5px;
+    overflow: scroll;
+}
+
+.letra{
+    text-shadow: 0.5px 0.5px 0.5px white;
+}
+
+.kid{
+    width: 150px;
+    height: 210px;
+
+    position: fixed;
+    right: 0%;
+    bottom: 0%;
+}
+
+.kid2{
+    width: 150px;
+    height: 210px;
+
+    position: fixed;
+    left: 0%;
+    bottom: 0%;
+}
+
+div{
+    display: inline-block;
+}
+
+.dir{
+    position: relative;
+    width: 195px;
+    height: 200px;
+    margin-left: 0px;
+    top: -50px;
+}
+
+.meio{
+    position: relative;
+    height: 250px;
+    width: 789px;
+}
+
+.esq{
+    position: relative;
+    width: 195px;
+    height: 200px;
+    margin-right: 10px;
+    top: -2px;
+}
+
+.pedro{
+    position: absolute;
+    height: 120px;
+    width: 120px;
+    left: 75px;
+}
+
+.albumpedro{
+    position: absolute;
+    height: 120px;
+    width: 120px;
+    top: 80px;
+    
+}
+
+.fodase{
+    position: absolute;
+    height: 120px;
+    width: 350px;
+    left: 220px;
+}
+
+.nyd{
+    position: absolute;
+    height: 90px;
+    width: 350px;
+    top: 150px;
+    left: 220px;
+}
+
+.jao{
+    position: static;
+    height: 120px;
+    width: 120px;
+}
+
+.albumjao{
+    position: relative;
+    height: 120px;
+    width: 120px;
+    left: 75px;
+    top: -48px;
+}
